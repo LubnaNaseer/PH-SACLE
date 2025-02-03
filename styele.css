@@ -1,0 +1,105 @@
+body{
+    background-color:gray;
+    color: azure;
+    margin: 0px;
+}
+h1{
+    background-color:rgb(196, 181, 181);
+    color: antiquewhite;
+    padding: 15px
+}
+.one{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(8, 32, 243);
+
+}
+.two{
+   padding: 9px;
+   margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(40, 40, 247);
+    
+}
+.three{
+    padding: 9px;
+    margin:0px;
+    color: antiquewhite;
+    background-color: rgb(30, 94, 179);
+}
+.four{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(63, 133, 238);
+}
+.five{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(7, 150, 245);
+}
+.six{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(29, 183, 221);
+}
+.seven{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(106, 153, 184);
+}
+.eight{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: green;
+}
+.nine{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: lightcoral;
+}
+.ten{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color:palevioletred ;
+}
+.elven{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(240, 76, 131);
+}
+.twelve{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(230, 73, 125);
+
+}
+.thirteen{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(245, 44, 111);
+}
+.fourteen{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(199, 40, 93);
+}
+.fiveteen{
+    padding: 9px;
+    margin: 0px;
+    color: antiquewhite;
+    background-color: rgb(238, 15, 89);
+}
+
+    
